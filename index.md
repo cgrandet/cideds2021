@@ -5,7 +5,7 @@ programación usando Python.
 
 ### Secciones
 
-1. [Clases](clases.md)
+1. [Clases](/clases.md)
 2. Laboratorios
 3. Tareas 
 
