@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Introducción a la Ciencia de Datos - ME CIDE 2021
 
-You can use the [editor on GitHub](https://github.com/cgrandet/cideds2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenidos al curso de ciencia de datos. Este curso buscará dar conocimientos introductorios de 
+programación usando Python. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Secciones
 
-### Markdown
+1. [Clases](https://github.com/cgrandet/cideds2021/blob/gh-pages/clases.md)
+2. Laboratorios
+3. Tareas 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
