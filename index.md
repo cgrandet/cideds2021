@@ -6,5 +6,5 @@ programación usando Python.
 ### Secciones
 
 1. [Clases](/clases/index.md)
-2. Laboratorios
-3. Tareas 
+2. [Laboratorios](/labs/index.md)
+3. [Tareas](/tareas/index.md)
